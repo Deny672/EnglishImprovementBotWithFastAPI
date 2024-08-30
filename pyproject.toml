@@ -1,9 +1,5 @@
 [tool.isort]
 profile = "black"
-known_django = "django"
-known_third_party = "rest_framework"
-known_local_folder = "news_portal"
-default_section = "THIRDPARTY"
 multi_line_output = "3"
 include_trailing_comma = "True"
 force_grid_wrap = "0"
