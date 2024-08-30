@@ -1,0 +1,8 @@
+.vscode
+
+# Environments
+.venv
+venv/
+venv.bak
+
+.env
